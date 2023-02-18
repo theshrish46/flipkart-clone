@@ -16,6 +16,15 @@ const Categories = () => {
       <div>
         <img src='./../assets/appliances.webp' alt='an img'></img>
       </div>
+      <div>
+        <img src='./../assets/fashion.webp' alt='an img'></img>
+      </div>
+      <div>
+        <img src='./../assets/mobiles.webp' alt='an img'></img>
+      </div>
+      <div>
+        <img></img>
+      </div>
     </div>
   )
 }
