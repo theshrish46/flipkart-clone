@@ -23,10 +23,31 @@ const Categories = () => {
       </div>
       <div>
         <img src='./../assets/mobiles.webp' alt='an img'></img>
-        
+        <span>Mobiles</span>
       </div>
       <div>
         <img src='./../assets/electronics.webp' alt='an img'></img>
+        <span>Electronics</span>
+      </div>
+      <div>
+        <img src='./../assets/grocery.webp' alt='an img'></img>
+        <span>Grocery</span>
+      </div>
+      <div>
+        <img src='./../assets/topoffers.webp' alt='an img'></img>
+        <span>Top Offers</span>
+      </div>
+      <div>
+        <img src='./../assets/travel.webp' alt='an img'></img>
+        <span>Travel</span>
+      </div>
+      <div>
+        <img src='./../twowheelers.webp' alt='an img'></img>
+        <span>Two Wheelers</span>
+      </div>
+      <div>
+        <img src='./../kids.webp' alt='an img'></img>
+        <span>Kids</span>
       </div>
     </div>
   )
