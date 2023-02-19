@@ -15,15 +15,18 @@ const Categories = () => {
     <div>
       <div>
         <img src='./../assets/appliances.webp' alt='an img'></img>
+        <span>Appliances</span>
       </div>
       <div>
         <img src='./../assets/fashion.webp' alt='an img'></img>
+        <span>Fashion</span>
       </div>
       <div>
         <img src='./../assets/mobiles.webp' alt='an img'></img>
+        
       </div>
       <div>
-        <img></img>
+        <img src='./../assets/electronics.webp' alt='an img'></img>
       </div>
     </div>
   )
