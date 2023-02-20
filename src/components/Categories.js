@@ -49,6 +49,22 @@ const Categories = () => {
         <img src='./../kids.webp' alt='an img'></img>
         <span>Kids</span>
       </div>
+      <div>
+        <img src='./../assets/kids.webp' alt='an img'></img>
+        <span>Kids</span>
+      </div>
+      <div>
+        <img src='./../assets/twowheelers.webp' alt='an img'></img>
+        <span>Two Wheelers</span>
+      </div>
+      <div>
+        <img src='./../assets/travel.webp' alt='an img'></img>
+        <span>Travel</span> 
+      </div>
+      <div>
+        <img src='./assets/appliances.webp' alt='an img'></img>
+        <span>Appliances</span>
+      </div>
     </div>
   )
 }
