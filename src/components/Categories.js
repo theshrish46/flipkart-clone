@@ -24,7 +24,7 @@ function handel(e) {
 }
 
   return (
-    <div className='w-full h-28 flex justify-center items-center shadow-md'>
+    <div className='w-full h-28 flex justify-center items-center shadow-md mb-1'>
       
       <div className='w-32 h-32 px-2 flex flex-col text-[0.9rem] font-semibold justify-center items-center hover:text-blue-500'>
         <img src={grocery} alt="an graphics" className='w-16'/>
