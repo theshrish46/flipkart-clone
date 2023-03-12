@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactSearchBox from 'react-search-box'
-import headerLogo from '../assets/flipkart-icon.png'
+import headerLogo from '../assets/Logo/flipkart-icon.png'
 import {IoIosArrowDown, IoIosArrowUp} from 'react-icons/io'
 import {AiOutlineShoppingCart} from 'react-icons/ai'
 import {AiOutlineSearch} from 'react-icons/ai'

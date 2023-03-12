@@ -1,14 +1,14 @@
 import React from 'react';
-import  grocery from './../assets/grocery.png';
-import electronics from './../assets/electronics.png';
-import kids from './../assets/kids.png';
-import fashion from './../assets/fashion.jpeg';
-import home from './../assets/home.jpeg';
-import mobile from './../assets/mobiles.png';
-import travel from './../assets/travel.png';
-import twowheeler from './../assets/twowheelers.png';
-import topoffer from './../assets/topoffers.png';
-import appliances from './../assets/appliances.png';
+import  grocery from './../assets/Categories/grocery.png';
+import electronics from './../assets/Categories/electronics.png';
+import kids from './../assets/Categories/kids.png';
+import fashion from './../assets/Categories/fashion.jpeg';
+import home from './../assets/Categories/home.jpeg';
+import mobile from './../assets/Categories/mobiles.png';
+import travel from './../assets/Categories/travel.png';
+import twowheeler from './../assets/Categories/twowheelers.png';
+import topoffer from './../assets/Categories/topoffers.png';
+import appliances from './../assets/Categories/appliances.png';
 import { RiArrowDropDownLine } from 'react-icons/ri';
 
 
