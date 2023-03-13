@@ -14,7 +14,8 @@ import ac from './../assets/Top Offer/ac.jpg';
 
 const Topoffer = () => {
   return (
-    <div className='mx-2 mb-20 h-96 flex justify-between items-stretch'>
+    
+    <div className='mx-2 mb-20 w-full h-96 flex justify-between items-stretch border-2 border-cyan-900'>
 
       <div className="w-1/5 h-full bg-cyan-100">
         <div className="border-white border-2 w-full h-full flex flex-col justify-center items-center">
@@ -23,14 +24,15 @@ const Topoffer = () => {
         </div>
       </div>
 
-        <div className='w-2/5 flex justify-around items-center'>
+        <div className='w-3/5 flex justify-around items-center'>
             <Carousel
                 showStatus={false}
                 statusFormatter={false}
                 showThumbs={false}
+                className='w-full h-full'
             >
 
-                <div className='w-full h-24 flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center border-red-500 border-2'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -39,7 +41,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-72 h-full flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -48,7 +50,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-72 h-full flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -57,7 +59,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-72 h-full flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -66,7 +68,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-72 h-full flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -75,7 +77,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-72 h-full flex flex-col justify-around items-center'>
+                <div className='w-60 h-full flex flex-col justify-around items-center'>
                     <img src={waterbottle} alt="an img" className='h-40'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
