@@ -18,7 +18,7 @@ import suitcase from './../assets/Top Offer/suit.jpg';
 const Topoffer = () => {
   return (
     
-    <div className='mx-2 mb-20 w-full h-96 flex justify-between items-stretch'>
+    <div className='mb-2 w-full h-96 flex justify-between items-stretch shadow-lg'>
 
       <div className="w-1/6 h-full bg-cyan-100">
         <div className="border-white border-2 w-full h-full flex flex-col justify-center items-center">
@@ -39,7 +39,7 @@ const Topoffer = () => {
             >
 
             <div className='first w-full flex justify-start items-center'>
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={waterbottle} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
@@ -48,7 +48,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={speaker} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Speaker</span>
@@ -57,7 +57,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={applepencil} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Apple Pencil</span>
@@ -66,7 +66,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={ac} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>AC and coolers</span>
@@ -78,7 +78,7 @@ const Topoffer = () => {
 
 
             <div className='second w-full flex justify-start items-center'>
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={shoes} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Shoes</span>
@@ -87,7 +87,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={tava} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Tava</span>
@@ -96,7 +96,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={lenovotablet} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Lenovo Tablet</span>
@@ -105,7 +105,7 @@ const Topoffer = () => {
                     </div>
                 </div>
 
-                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center'>
+                <div className='w-80 h-96 mx-4 flex flex-col justify-around items-center hover:scale-[1.01]'>
                     <img src={suitcase} alt="an img" className='h-60'/>
                     <div className='flex flex-col justify-center items-center'>
                         <span className='text-lg'>Water Bottle</span>
